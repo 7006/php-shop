@@ -9,10 +9,15 @@ The application should have three routes/views
 The products should have
 
 id
+
 name
+
 description (shown only in product details)
+
 quantity (shown only in product details)
+
 price
+
 picture ( use one same image for all products for simplicity)
 
 
